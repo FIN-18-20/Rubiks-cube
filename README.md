@@ -50,9 +50,9 @@ Placer le cube pour que le J soit dans le sens habituel et faire:
 
 ### - 3ème cas: rien
 
-Faire les formules des cas 1 et 2
+Faire la formule du cas 1 et évaluer le cas obtenu (cas 1 ou 2)
 
-    A+ D+ H+ D- H- A-        &&        D- H- A- H+ A+ D+
+    A+ D+ H+ D- H- A-
 
 ## 5. Positionner la croix jaune
 
@@ -63,7 +63,7 @@ Positionner les 2 arrêtes fausses devant soi et à droite et faire:
 
 Si les 2 arrêtes justes ne sont pas à côté (une en face de l'autre). Faire la formule ci-dessus 2 fois (avec une arrête juste face à vous).
 
-## 6. Finir la face jaune
+## 6. Positionner les 4 coins jaunes
 
 Trouver un coin qui est bien positionné (les couleurs peuvent être inversées ou non).
 Se mettre en face et faire: 
@@ -72,6 +72,8 @@ Se mettre en face et faire:
 
 Si la formule ne fonctionne pas, il faut la refaire une 2ème fois.
 Si aucun coin n'est bien positionné: faire la formule 3 fois en tout.
+
+## 7. Finir la face jaune
 
 ### - 1er cas: 2 coins mal placés côte à côte
 
@@ -92,4 +94,4 @@ Faire la formule suivant:
 
 ### - 4ème cas: les 4 coins sont mauvais
 
-Faire la formule du 1er cas 2 fois, puis évaluer quel cas (1, 2 ou 3) choisir selon la situation
+Faire la formule du 1er cas 1 fois, puis évaluer quel cas (1, 2 ou 3) choisir selon la situation
